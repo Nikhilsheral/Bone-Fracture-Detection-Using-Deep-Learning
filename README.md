@@ -1,6 +1,5 @@
 # Bone-Fracture-Detection-Using-Deep-Learning
-mainGUI.py:i
-mport os
+import os
 from tkinter import filedialog
 import customtkinter as ctk
 import pyautogui
